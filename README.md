@@ -1,10 +1,10 @@
 ### Hi, I'm Janek 👋
 
 - 🤔 I'm a web and mobile developer with background in philosophy
-- 🎯 My goal is to create technology that has [positive impact on mental health](https://jasiek.net/bhag)
-- 🚀 I'm working in a startups as a [programmer and cofounder](https://jasiek.net/projects/)
-- 📫 I'm open for [collaboration](https://jasiek.net/collaboration)
-- 🔭 I’m looking to collaborate on [awesome-psychology-projects](https://github.com/jasiek-net/awesome-psychology-projects)
+- 🎯 My goal is to create technology that has <a target="_blank" href="https://jasiek.net/bhag">positive impact on mental health</a>
+- 🚀 I'm working in a startups as a <a target="_blank" href="https://jasiek.net/projects/">programmer and cofounder</a>
+- 📫 I'm open for <a target="_blank" href="https://jasiek.net/collaboration/">collaboration</a>
+- 🔭 I’m looking to collaborate on <a target="_blank" href="https://github.com/jasiek-net/awesome-psychology-projects">awesome-psychology-projects</a>
 
 
 <!--
