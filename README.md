@@ -2,7 +2,7 @@
 
 - 🤔 I'm a web and mobile developer with background in philosophy
 - 🎯 My goal is to create technology that has <a target="_blank" href="https://jasiek.net/goal">positive impact on mental health</a>
-- 🚀 I'm working in a startups as a <a target="_blank" href="https://jasiek.net/projects/">programmer and cofounder</a>
+- 🚀 I'm working in a startups as a <a target="_blank" href="https://jasiek.net/projects">programmer and cofounder</a>
 - 📫 I'm open for <a target="_blank" href="https://jasiek.net/about">collaboration</a>
 - 🔭 I’m looking to collaborate on <a target="_blank" href="https://github.com/jasiek-net/awesome-psychology-projects">awesome-psychology-projects</a>
 
