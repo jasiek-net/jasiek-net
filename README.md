@@ -1,6 +1,6 @@
 ### Hi, I'm Janek 👋
 
-- 🤔 I'm a web and mobile developer with background in philosophy
+- 🤔 I'm a web and mobile developer with background in psychology
 - 🎯 My goal is to create technology that has <a target="_blank" href="https://jasiek.net/goal">positive impact on mental health</a>
 - 🚀 I'm working in a startups as a <a target="_blank" href="https://jasiek.net/projects">programmer and cofounder</a>
 - 📫 I'm open for <a target="_blank" href="https://jasiek.net/about">collaboration</a>
